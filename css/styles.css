@@ -1,0 +1,60 @@
+.row {
+    height: 20px;
+    background-color: #213954;
+    border-bottom: 5px solid #caac65;
+    border-bottom-width: 5px;
+    border-bottom-style: solid;
+    
+    
+}
+
+.col-sm-2 {
+    color: white;
+    background-color: #213954; 
+    margin-top: 14px;
+    margin-right: 100px; 
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
+.img-logo {
+    padding-top: 40px;
+    padding: 40px;
+    margin-left: 30px;
+    
+}
+
+img {
+    height: 60px;
+}
+
+
+
+
+.nav {
+    color: #213954;
+    font-size: 0.8rem;
+    padding-left: 570px;
+    margin-top: -80px;
+    
+}
+
+h6 {
+    font-size: 0.6rem;
+    color: #213954;
+    display: inline;
+    padding: 0.18px;
+    
+    
+}
+
+.contact {
+    margin-top: 20px;
+    margin-right: 45px;
+}
+
+
+
