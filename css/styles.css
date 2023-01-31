@@ -1,60 +1,207 @@
-.row {
-    height: 20px;
+.header-top-line {
+    height: 15px;
     background-color: #213954;
     border-bottom: 5px solid #caac65;
-    border-bottom-width: 5px;
+    border-bottom-width: 4px;
     border-bottom-style: solid;
-    
-    
+
 }
 
-.col-sm-2 {
+
+
+.adress-header {
+    font-size: 0.6rem;
+    display: inline;
+    margin-right: 20px;
+
+}
+
+.tel-header {
+    font-size: 0.6rem;
+    display: inline;
+    margin-right: 50px;
+
+}
+
+
+.header-login {
+    padding: 5px 10px;
+    background-color: #213954;
+    margin-top: -5px;
+}
+
+
+
+.logo {
+    width: 200px;
+    padding: 10px 0px 0px 0px;
+}
+
+.navigation-bar {
+    font-size: 0.7rem;
+    padding: 35px 0px;
+    color: #161415;
+
+}
+
+.carousel-inner {
+    border-top: 1px solid;
+}
+
+.navigation-bar a,
+.navigation-bar a:hover {
+    color: #161415;
+}
+
+
+.carousel .carousel-indicators li {
+    width: 7px;
+    height: 7px;
+    border-radius: 100%;
+    margin: 3px;
+
+}
+
+
+.tree {
+    width: 100%;
+    height: 327px;
+    background: url(file:///E:/web/Test/MBKS/img/oak-tree.png) no-repeat 50%, url(file:///E:/web/Test/MBKS/img/weave-texture.png);
+    border-bottom: 5px solid #caac65;
+
+
+}
+
+.welcome {
     color: white;
-    background-color: #213954; 
-    margin-top: 14px;
-    margin-right: 100px; 
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 90px;
+    margin-bottom: 20px;
+    font-family: 'Cormorant Garamond', serif;
+
+}
+
+.description {
+    color: white;
+    font-size: 0.8rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em;
     text-align: center;
 }
 
-a {
+.tree-sign {
+    background-color: #caac65;
+    color: #213954;
+    margin-left: 333px;
+    padding: 5px 10px;
+    margin-bottom: 50px;
+
+
+}
+
+.col-4 {
+    background: url(file:///E:/web/Test/MBKS/img/rectangle.png) no-repeat center center;
+    background-size: 95% 95%;
+    margin-bottom: 50px;
+    
+}
+
+
+
+
+.icon-1,
+.icon-2,
+.icon-3 {
+    width: 115px;
+    height: 115px;
+    text-align: center;
+    font-size: 4rem;
+    border: 2px solid;
+    border-radius: 100px;
+    margin: 50px 0px 20px 90px;
+    color: #203950;
+    
+    
+    
+}
+
+.financial,
+.risk,
+.retirement {
+    text-align: center;
+    font-size: 1rem;
+    font-family: 'Fjalla One', sans-serif;
+    
+
+}
+
+.offer-description {
+    text-align: center;
+    font-size: 0.7rem;
+    margin-top: 10px;
+    margin-bottom: 50px;
+
+}
+
+
+
+.footer {
+    background: url(file:///E:/web/Test/MBKS/img/weave-texture.png);
     color: white;
+    padding-top: 50px;
+    border-bottom: 5px solid #caac65;
 }
 
-.img-logo {
-    padding-top: 40px;
-    padding: 40px;
-    margin-left: 30px;
+.footer-logo {
     
-}
+} 
 
-img {
-    height: 60px;
-}
-
-
-
-
-.nav {
-    color: #213954;
-    font-size: 0.8rem;
-    padding-left: 570px;
-    margin-top: -80px;
-    
-}
-
-h6 {
-    font-size: 0.6rem;
-    color: #213954;
-    display: inline;
-    padding: 0.18px;
+.footer-description {
+    font-size: 0.7rem;
     
     
 }
 
-.contact {
-    margin-top: 20px;
-    margin-right: 45px;
+.footer-link, .contact-info {
+    padding-top: 10px;
+    text-align: left;
+    padding-left: 15px;
+    font-family: 'Open Sans', sans-serif;
+    
+    
+    
 }
+
+.item-link {
+    font-size: 0.7rem;
+    text-align: left;
+    padding: 10px 0px 10px 0px;
+    color: white;
+    
+}
+
+.copyright, .copyright-link {
+    text-align: center;
+    font-size: 0.7rem;
+    padding: 5px 0px 5px 0px;
+    color: black;
+    margin-bottom: 50px;
+    
+}
+
+
+
+ 
+
+
+
+
+
+
+
+
 
 
 
