@@ -91,12 +91,15 @@
     text-align: center;
 }
 
+
+
 .tree-sign {
+    width: 335px;
     background-color: #caac65;
     color: #213954;
-    margin-left: 500px;
+    margin:  0px auto 50px ;
     padding: 5px 10px;
-    margin-bottom: 50px;
+    
 
 
 }
