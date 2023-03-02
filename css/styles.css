@@ -74,7 +74,7 @@
 .tree {
     width: 100%;
     min-height: 327px;
-    background: url(/img/oak-tree.png) no-repeat 50%, url(/img/weave-texture.png);
+    background: url(img/oak-tree.png) no-repeat 50%, url(img/weave-texture.png);
     border-bottom: 5px solid #caac65;
     overflow: hidden;
 
@@ -120,7 +120,7 @@
 }
 
 .col-xl-4 {
-    background: url(/img/rectangle.png) no-repeat center center;
+    background: url(img/rectangle.png) no-repeat center center;
     background-size: 95% 95%;
     margin-bottom: 50px;
     overflow: hidden;
@@ -165,7 +165,7 @@
 
 
 .footer {
-    background: url(/img/weave-texture.png);
+    background: url(img/weave-texture.png);
     color: white;
     padding-top: 50px;
     padding-bottom: 40px;
